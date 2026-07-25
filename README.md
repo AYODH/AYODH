@@ -84,7 +84,7 @@ writing: "medium.com/@rochaniriligala"
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AYODH/AYODH/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/AYODH/AYODH/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <br/>
