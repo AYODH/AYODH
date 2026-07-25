@@ -60,7 +60,7 @@ writing: "medium.com/@rochaniriligala"
 ### 🧰 Tools & Tech
 
 <p align="left">
-<img src="assets/boomi-logo.png" alt="boomi" width="45" height="45"/>&nbsp;
+<img src="https://boomi.com/wp-content/uploads/BoomiMenuLogoIcon.svg" alt="boomi" width="45" height="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
@@ -68,16 +68,13 @@ writing: "medium.com/@rochaniriligala"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45" style="background:#ffffff;border-radius:6px;padding:2px;"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="elastic" width="45" height="45"/>
-</p>
-
-<p align="left">
-  <img src="assets/wso2-apim-logo.png" alt="wso2 api manager" height="45"/>&nbsp;&nbsp;
-  <img src="assets/wso2-is-logo.png" alt="wso2 identity server" height="45"/>&nbsp;&nbsp;
-  <img src="assets/aws-logo.png" alt="aws" height="40"/>&nbsp;&nbsp;
-  <img src="assets/jira-logo.png" alt="jira" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="elastic" width="45" height="45"/>&nbsp;
+<img src="https://wso2.cachefly.net/wso2/sites/all/image_resources/logos/WSO2-Pulse-Orange.webp" alt="wso2" height="42"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="aws" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jira/2684FF" alt="jira" height="42"/>
 </p>
 
 <br/>
