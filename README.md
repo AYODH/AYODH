@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=180&section=header&text=Rochani%20Riligala&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Managed%20Services%20Engineer%20%7C%20Boomi%20Integration%20Consultant&descAlignY=58&descSize=16&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=180&section=header&text=Rochani%20Riligala&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Managed%20Services%20Engineer%20%40%20Yenlo%20%7C%20Boomi%20Integration%20Consultant&descAlignY=58&descSize=16&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ```yaml
 name: Rochani Riligala
 location: Sri Lanka
-current_role: Managed Services Engineer
+current_role: Managed Services Engineer @ Yenlo
 education:
   [
     "BEng (Hons) Software Engineering — UOW",
@@ -92,8 +92,8 @@ writing: "medium.com/@rochaniriligala"
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AYODH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYODH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AYODH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AYODH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 <p align="center">
